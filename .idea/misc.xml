@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidTool/androidProject/GithubProject/Listener/app/src/main/res/drawable/ic_arrow.xml" value="0.2325" />
+        <entry key="..\:/androidTool/androidProject/GithubProject/Listener/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2025" />
+        <entry key="..\:/androidTool/androidProject/GithubProject/Listener/app/src/main/res/drawable/ic_image_test.xml" value="0.1885" />
+        <entry key="..\:/androidTool/androidProject/GithubProject/Listener/app/src/main/res/drawable/scrollbar.xml" value="0.1015" />
+        <entry key="..\:/androidTool/androidProject/GithubProject/Listener/app/src/main/res/layout/activity_detail.xml" value="0.29936594202898553" />
+        <entry key="..\:/androidTool/androidProject/GithubProject/Listener/app/src/main/res/layout/activity_main.xml" value="0.26766304347826086" />
+        <entry key="..\:/androidTool/androidProject/GithubProject/Listener/app/src/main/res/layout/item_pokemon.xml" value="0.2980072463768116" />
+        <entry key="..\:/androidTool/androidProject/GithubProject/Listener/app/src/main/res/layout/toolbar_home.xml" value="0.2980072463768116" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
