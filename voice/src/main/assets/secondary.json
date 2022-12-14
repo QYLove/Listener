@@ -1,356 +1,260 @@
 {
   "list": [
     {
-      "name": "静",
-      "pinyin": "jing4"
+      "name": "慧",
+      "pinyin": "hui4"
     },
     {
-      "name": "碧",
-      "pinyin": "bi4"
+      "name": "撕",
+      "pinyin": "si1"
     },
     {
-      "name": "璃",
-      "pinyin": "li2"
+      "name": "撒",
+      "pinyin": "sa1"
     },
     {
-      "name": "墙",
-      "pinyin": "qiang3"
+      "name": "趣",
+      "pinyin": "qu4"
     },
     {
-      "name": "撇",
-      "pinyin": "pie3"
+      "name": "趟",
+      "pinyin": "tang4"
     },
     {
-      "name": "嘉",
-      "pinyin": "jia1"
+      "name": "撑",
+      "pinyin": "cheng1"
     },
     {
-      "name": "摧",
-      "pinyin": "cui1"
+      "name": "播",
+      "pinyin": "bo1"
     },
     {
-      "name": "截",
-      "pinyin": "jie2"
+      "name": "撞",
+      "pinyin": "zhuang4"
     },
     {
-      "name": "誓",
-      "pinyin": "shi4"
+      "name": "撤",
+      "pinyin": "che4"
     },
     {
-      "name": "境",
-      "pinyin": "jing4"
+      "name": "增",
+      "pinyin": "zeng1"
     },
     {
-      "name": "摘",
-      "pinyin": "zhai1"
+      "name": "聪",
+      "pinyin": "cong1"
     },
     {
-      "name": "摔",
-      "pinyin": "shuai1"
+      "name": "鞋",
+      "pinyin": "xie2"
     },
     {
-      "name": "聚",
-      "pinyin": "ju4"
+      "name": "蕉",
+      "pinyin": "jiao1"
     },
     {
-      "name": "蔽",
-      "pinyin": "bi4"
+      "name": "蔬",
+      "pinyin": "shu1"
     },
     {
-      "name": "慕",
-      "pinyin": "mu4"
+      "name": "横",
+      "pinyin": "heng2"
     },
     {
-      "name": "暮",
-      "pinyin": "mu4"
+      "name": "槽",
+      "pinyin": "cao2"
     },
     {
-      "name": "蔑",
-      "pinyin": "mie4"
+      "name": "樱",
+      "pinyin": "ying1"
     },
     {
-      "name": "模",
-      "pinyin": "mo2"
+      "name": "橡",
+      "pinyin": "xiang4"
     },
     {
-      "name": "榴",
-      "pinyin": "liu2"
-    },
-    {
-      "name": "榜",
-      "pinyin": "bang3"
-    },
-    {
-      "name": "榨",
-      "pinyin": "zha4"
-    },
-    {
-      "name": "歌",
-      "pinyin": "ge1"
-    },
-    {
-      "name": "遭",
-      "pinyin": "zao1"
-    },
-    {
-      "name": "酷",
-      "pinyin": "ku4"
-    },
-    {
-      "name": "酿",
-      "pinyin": "niang4"
-    },
-    {
-      "name": "酸",
-      "pinyin": "suan1"
-    },
-    {
-      "name": "磁",
-      "pinyin": "ci2"
-    },
-    {
-      "name": "愿",
-      "pinyin": "yuan4"
-    },
-    {
-      "name": "需",
-      "pinyin": "xu1"
-    },
-    {
-      "name": "弊",
-      "pinyin": "bi4"
-    },
-    {
-      "name": "裳",
-      "pinyin": "shang0"
-    },
-    {
-      "name": "颗",
-      "pinyin": "ke1"
-    },
-    {
-      "name": "嗽",
-      "pinyin": "sou4"
-    },
-    {
-      "name": "蜻",
-      "pinyin": "qing1"
-    },
-    {
-      "name": "蜡",
-      "pinyin": "la4"
-    },
-    {
-      "name": "蝇",
-      "pinyin": "ying2"
-    },
-    {
-      "name": "蜘",
-      "pinyin": "zhi1"
-    },
-    {
-      "name": "赚",
-      "pinyin": "zhuan4"
-    },
-    {
-      "name": "锹",
-      "pinyin": "qiao1"
-    },
-    {
-      "name": "锻",
-      "pinyin": "duan4"
-    },
-    {
-      "name": "舞",
-      "pinyin": "wu3"
-    },
-    {
-      "name": "稳",
-      "pinyin": "wen3"
-    },
-    {
-      "name": "算",
-      "pinyin": "suan4"
-    },
-    {
-      "name": "箩",
-      "pinyin": "luo2"
-    },
-    {
-      "name": "管",
-      "pinyin": "guan3"
-    },
-    {
-      "name": "僚",
-      "pinyin": "liao2"
-    },
-    {
-      "name": "鼻",
-      "pinyin": "bi2"
-    },
-    {
-      "name": "魄",
-      "pinyin": "po4"
-    },
-    {
-      "name": "貌",
-      "pinyin": "mao4"
-    },
-    {
-      "name": "膜",
-      "pinyin": "mo2"
-    },
-    {
-      "name": "膊",
-      "pinyin": "bo2"
-    },
-    {
-      "name": "膀",
-      "pinyin": "bang3"
-    },
-    {
-      "name": "鲜",
-      "pinyin": "xian1"
-    },
-    {
-      "name": "疑",
-      "pinyin": "yi2"
-    },
-    {
-      "name": "馒",
-      "pinyin": "man2"
-    },
-    {
-      "name": "裹",
-      "pinyin": "guo3"
-    },
-    {
-      "name": "敲",
-      "pinyin": "qiao1"
-    },
-    {
-      "name": "豪",
-      "pinyin": "hao2"
-    },
-    {
-      "name": "膏",
-      "pinyin": "gao1"
-    },
-    {
-      "name": "遮",
-      "pinyin": "zhe1"
-    },
-    {
-      "name": "腐",
-      "pinyin": "fu3"
-    },
-    {
-      "name": "瘦",
-      "pinyin": "shou4"
-    },
-    {
-      "name": "辣",
-      "pinyin": "la4"
-    },
-    {
-      "name": "竭",
-      "pinyin": "jie2"
-    },
-    {
-      "name": "端",
-      "pinyin": "duan1"
-    },
-    {
-      "name": "旗",
-      "pinyin": "qi2"
-    },
-    {
-      "name": "精",
-      "pinyin": "jing1"
-    },
-    {
-      "name": "歉",
-      "pinyin": "qian4"
-    },
-    {
-      "name": "熄",
-      "pinyin": "xi1"
-    },
-    {
-      "name": "熔",
-      "pinyin": "rong2"
-    },
-    {
-      "name": "漆",
-      "pinyin": "qi1"
-    },
-    {
-      "name": "漂",
+      "name": "飘",
       "pinyin": "piao1"
     },
     {
-      "name": "漫",
-      "pinyin": "man4"
+      "name": "醋",
+      "pinyin": "cu4"
     },
     {
-      "name": "滴",
-      "pinyin": "di1"
+      "name": "醉",
+      "pinyin": "zui4"
     },
     {
-      "name": "演",
-      "pinyin": "yan3"
+      "name": "震",
+      "pinyin": "zhen4"
     },
     {
-      "name": "漏",
-      "pinyin": "lou4"
+      "name": "霉",
+      "pinyin": "mei2"
     },
     {
-      "name": "慢",
-      "pinyin": "man4"
+      "name": "瞒",
+      "pinyin": "man2"
     },
     {
-      "name": "寨",
-      "pinyin": "zhai4"
+      "name": "题",
+      "pinyin": "ti2"
     },
     {
-      "name": "赛",
-      "pinyin": "sai4"
+      "name": "暴",
+      "pinyin": "bao4"
     },
     {
-      "name": "察",
-      "pinyin": "cha2"
+      "name": "瞎",
+      "pinyin": "xia1"
     },
     {
-      "name": "蜜",
-      "pinyin": "mi4"
+      "name": "影",
+      "pinyin": "ying3"
     },
     {
-      "name": "谱",
-      "pinyin": "pu3"
+      "name": "踢",
+      "pinyin": "ti1"
     },
     {
-      "name": "嫩",
-      "pinyin": "nen4"
+      "name": "踏",
+      "pinyin": "ta4"
     },
     {
-      "name": "翠",
-      "pinyin": "cui4"
+      "name": "踩",
+      "pinyin": "cai3"
     },
     {
-      "name": "熊",
-      "pinyin": "xiong2"
+      "name": "踪",
+      "pinyin": "zong1"
     },
     {
-      "name": "凳",
-      "pinyin": "deng4"
+      "name": "蝶",
+      "pinyin": "die2"
     },
     {
-      "name": "骡",
-      "pinyin": "luo2"
+      "name": "蝴",
+      "pinyin": "hu2"
     },
     {
-      "name": "缩",
-      "pinyin": "suo1"
+      "name": "嘱",
+      "pinyin": "zhu3"
+    },
+    {
+      "name": "墨",
+      "pinyin": "mo4"
+    },
+    {
+      "name": "镇",
+      "pinyin": "zhen4"
+    },
+    {
+      "name": "靠",
+      "pinyin": "kao4"
+    },
+    {
+      "name": "稻",
+      "pinyin": "dao4"
+    },
+    {
+      "name": "黎",
+      "pinyin": "li2"
+    },
+    {
+      "name": "稿",
+      "pinyin": "gao3"
+    },
+    {
+      "name": "稼",
+      "pinyin": "jia4"
+    },
+    {
+      "name": "箱",
+      "pinyin": "xiang1"
+    },
+    {
+      "name": "箭",
+      "pinyin": "jian4"
+    },
+    {
+      "name": "篇",
+      "pinyin": "pian1"
+    },
+    {
+      "name": "僵",
+      "pinyin": "jiang1"
+    },
+    {
+      "name": "躺",
+      "pinyin": "tang3"
+    },
+    {
+      "name": "僻",
+      "pinyin": "pi4"
+    },
+    {
+      "name": "德",
+      "pinyin": "de2"
+    },
+    {
+      "name": "艘",
+      "pinyin": "sou1"
+    },
+    {
+      "name": "膝",
+      "pinyin": "xi1"
+    },
+    {
+      "name": "膛",
+      "pinyin": "tang2"
+    },
+    {
+      "name": "熟",
+      "pinyin": "shu2"
+    },
+    {
+      "name": "摩",
+      "pinyin": "mo2"
+    },
+    {
+      "name": "颜",
+      "pinyin": "yan2"
+    },
+    {
+      "name": "毅",
+      "pinyin": "yi4"
+    },
+    {
+      "name": "糊",
+      "pinyin": "hu2"
+    },
+    {
+      "name": "遵",
+      "pinyin": "zun1"
+    },
+    {
+      "name": "潜",
+      "pinyin": "qian2"
+    },
+    {
+      "name": "潮",
+      "pinyin": "chao2"
+    },
+    {
+      "name": "懂",
+      "pinyin": "dong3"
+    },
+    {
+      "name": "额",
+      "pinyin": "e2"
+    },
+    {
+      "name": "慰",
+      "pinyin": "wei4"
+    },
+    {
+      "name": "劈",
+      "pinyin": "pi1"
     }
   ]
 }
