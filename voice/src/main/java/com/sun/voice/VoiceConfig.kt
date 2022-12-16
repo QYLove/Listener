@@ -8,4 +8,7 @@ object VoiceConfig {
     //日志tag
     const val TAG = "VoiceLog"
 
+    //
+    const val commonJson = "common.json"
+
 }
